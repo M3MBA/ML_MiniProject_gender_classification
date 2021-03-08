@@ -1,7 +1,7 @@
 # ML_MiniProject_gender_classification
 Gender Classification - Where one can predict using the height and weight whether the person is a male or female.
 
-**Dependencies
+*Dependencies
 
 1) Scikit-learn
 2) numpy (pip install numpy)
