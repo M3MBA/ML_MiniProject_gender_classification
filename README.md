@@ -9,6 +9,6 @@ Gender Classification - Where one can predict using the height and weight whethe
 
 Once you have your dependencies installed via pip, run the script in terminal via
 
-    python demo.py
+    python male_female.py
 
 The Data used to train the model is taken from kaggle (https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex). Data contains the Gender, Height and weight of 500 people. 
